@@ -499,6 +499,8 @@ body {
   font-size: 13px;
 }
 
+
+
 @media(max-width: 640px){
   .how-it-works{
     flex-direction: column;
